@@ -6,7 +6,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 
-<h2>👨‍💻 Cyber Resources for everyone</h2>
+<h2>👨‍💻 Cyber Resources</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
