@@ -1,8 +1,12 @@
 <h1>Hi, I'm Manny! <br/><a href="https://github.com/Manolistzan">Cybersecurity</a>, <a href="https://www.linkedin.com/in/manolis-tzanidakis/">Infomation Technology Professional</a>, <a href="https://www.youtube.com/c/xplainedit">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
-- <b>Python</b>
-
+- <b>AWS Honeypot</b>
+- <b>Nessus Vulnerability Management</b>
+- <b>OpenVAS Vulnerability Manabement</b>
+- <b>OSINT Tools</b>
+- <b>Wazuh</b>
+- <b>Python Keystroke logger</b>
 <h2>📺 Popular YouTube Videos</h2>
 
 
