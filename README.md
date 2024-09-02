@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-- [AWS Honeypot]</b>
-- [Nessus Vulnerability Management]</b>
-- [OpenVAS Vulnerability Manabement]</b>
-- [OSINT Tools]</b>
-- [Wazuh]</b>
-- [Python Keystroke logger]</b>
+- AWS Honeypot</b>
+- Nessus Vulnerability Management</b>
+- OpenVAS Vulnerability Manabement</b>
+- OSINT Tools</b>
+- Wazuh</b>
+- Python Keystroke logger</b>
 <h2>📺 Popular YouTube Videos</h2>
 
 
